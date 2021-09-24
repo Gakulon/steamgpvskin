@@ -1234,7 +1234,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(sticks.png);
+    background: url(https://raw.githubusercontent.com/Gakulon/steamgpvskin/main/sticks.png?token=AVPP4N5SBELWE236UQ3YTITBJYLCU);
     height: 94px;
     width: 94px;
 }
@@ -1266,7 +1266,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(dpad.png);
+    background: url(https://raw.githubusercontent.com/Gakulon/steamgpvskin/main/dpad.png?token=AVPP4N4P4I42PL3KPD766Z3BJYK5Q);
     position: absolute;
 }
 
